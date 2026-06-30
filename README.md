@@ -68,8 +68,6 @@ O LeiturAI oferece um fluxo completo de processamento de documentos que:
 
 ```text
 docs/
-diagrams/
-examples/
 infrastructure/
 lambdas/
 ```
