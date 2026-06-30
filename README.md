@@ -103,7 +103,7 @@ lambdas/
 Projeto desenvolvido durante um Hackathon com foco na aplicação de tecnologias cloud-native e serverless para resolver desafios reais de análise documental no mercado de crédito.
 
 Integrantes:
-* [Alersson Moura](https://www.linkedin.com/in/arlesson-moura/)
+* [Arlesson Moura](https://www.linkedin.com/in/arlesson-moura/)
 * [Diogo Carvalho](https://www.linkedin.com/in/diogo-f-carvalho/)
 * [Lorena Carvalho](https://www.linkedin.com/in/lorena-carvalho-dev/?skipRedirect=true)
 * [Maria Beatriz Gomes](https://www.linkedin.com/in/maria-beatriz-gomes-pereira/?skipRedirect=true)
