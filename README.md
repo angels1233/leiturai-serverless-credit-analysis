@@ -101,3 +101,11 @@ lambdas/
 ## Equipe
 
 Projeto desenvolvido durante um Hackathon com foco na aplicação de tecnologias cloud-native e serverless para resolver desafios reais de análise documental no mercado de crédito.
+
+Integrantes:
+Alersson Moura
+Diogo Carvalho
+Lorena Carvalho
+Maria Beatriz Gomes
+Mateus Moura
+Matheus Oliveira
